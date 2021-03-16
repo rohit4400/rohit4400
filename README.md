@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rohit4400
 - 👀 I’m interested in web designing 
 - 🌱 I’m currently learning my favourite web designing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via saikrishna45678992gmail.com
 
 <!---
